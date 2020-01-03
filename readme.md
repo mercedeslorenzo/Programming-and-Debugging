@@ -1,4 +1,5 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
+![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
 Telink Burning and Debugging Tool (BDT) applies to Telink SoCs 8267, 8269, 8266, 8232, 8233, 8366, 8368 and 8x5x series. During SDK development, BDT's functionality includes “Erase flash sector”, “Download firmware”, “Activate MCU when communication failed”, “Access memory space including FLASH /CORE /ANALOG /OTP”, “Read/Write global variable” and “View USB log”.
 
@@ -33,7 +34,7 @@ __Step 2__: Download FW into “FLASH” via “EVK” mode
 ![Step 2-5](https://telinkgithub.github.io/Assets/12_Tools-Programming-Debugging/20181020-165831.png)
 
 
-← [View the Project on GitHub](https://github.com/TelinkGithub/item-2 "Menu")
+← [View the Project on GitHub](https://github.com/TelinkGithub/Programming-Debugging)
 
 
 ![footer-telink](https://telinkgithub.github.io/Assets/General/footer.jpg)
