@@ -4,7 +4,9 @@
 Telink Burning and Debugging Tool (BDT) applies to Telink SoCs 8267, 8269, 8266, 8232, 8233, 8366, 8368 and 8x5x series. During SDK development, BDT's functionality includes “Erase flash sector”, “Download firmware”, “Activate MCU when communication failed”, “Access memory space including FLASH /CORE /ANALOG /OTP”, “Read/Write global variable” and “View USB log”.
 
 [Download](https://telinkgithub.github.io/Assets/12_Tools-Programming-Debugging/BDT.zip)
+
 [Tool User guide](https://telinkgithub.github.io/Assets/12_Tools-Programming-Debugging/BDT%20%20User%20Guide.zip)
+
 [Board User guide](https://telinkgithub.github.io/Assets/12_Tools-Programming-Debugging/AN_18010500-E_User%20Guide%20for%20Telink%20Burning%20EVK%20TLSR8266BR56.pdf)
 
 User can follow the guide in this section to download firmware into specific flash space of the target board via “EVK” mode.
