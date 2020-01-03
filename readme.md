@@ -36,7 +36,7 @@ __Step 2__: Download FW into “FLASH” via “EVK” mode
 ![Step 2-5](https://telinkgithub.github.io/Assets/12_Tools-Programming-Debugging/20181020-165831.png)
 
 
-← [View the Project on GitHub](https://github.com/TelinkGithub/Programming-Debugging)
+← [View the Project on GitHub](https://telinkgithub.github.io/Programming-and-Debugging/)
 
 
 ![footer-telink](https://telinkgithub.github.io/Assets/General/footer.jpg)
