@@ -17,21 +17,21 @@ __Step 1__: Connect target board with “Burning EVK” via Swire
 
 __Step 2__: Download FW into “FLASH” via “EVK” mode
 
-1. Select chip type of the target board, e.g. 8258 (default option)
+Step 1. Select chip type of the target board, e.g. 8258 (default option)
 
-2. Select download mode as “EVK”
+Step 2. Select download mode as “EVK”
 
 ![Step 2-2](https://telinkgithub.github.io/Assets/12_Tools-Programming-Debugging/20181020-165729.png)
 
-3. Click the “Setting” button to select the offset of flash starting address default at 0
+Step 3. Click the “Setting” button to select the offset of flash starting address default at 0
 
 ![Step 2-3](https://telinkgithub.github.io/Assets/12_Tools-Programming-Debugging/20181020-165748.png)
 
-4. Select the target firmware file to be downloaded into the target board
+Step 4. Select the target firmware file to be downloaded into the target board
 
 ![Step 2-4](https://telinkgithub.github.io/Assets/12_Tools-Programming-Debugging/20181020-165813.png)
 
-5. Download the selected file into the target board
+Step 5. Download the selected file into the target board
 
 ![Step 2-5](https://telinkgithub.github.io/Assets/12_Tools-Programming-Debugging/20181020-165831.png)
 
